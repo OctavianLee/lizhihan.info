@@ -5,7 +5,7 @@
 # Site
 title: 极博阁
 subtitle:
-description: 技术博客
+description: 个人博客
 author: 李之瀚(Octavian)
 avatar: https://avatars2.githubusercontent.com/u/3096209?v=3&s=460
 email: Octavianlee1@gmail.com
@@ -25,8 +25,7 @@ social:
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 creative_commons: by-nc-sa
 
-disqus_shortname: lizhihan.info
-baidu_analytics: 0e703574540604d1128b93c9f779ec77
+disqus_shortname: Octavian
 
 
 # URL
