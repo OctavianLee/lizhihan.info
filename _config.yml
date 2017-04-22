@@ -24,13 +24,12 @@ social:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 creative_commons: by-nc-sa
-
 disqus_shortname: Octavian
 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lizhihan.info
+url: http://octavianus.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
